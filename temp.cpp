@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+#define isin(i,j,h,w) (!((i<0||i>=h||j<0||j>=w))?true:false)
 using namespace std;
 using let=long long;
 using P = pair<int,int>;
